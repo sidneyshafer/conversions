@@ -1,0 +1,13 @@
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\CalculateConversions.csproj.AssemblyReference.cache
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\CalculateConversions.csproj.SuggestedBindingRedirects.cache
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\Conversions.frmAddConversion.resources
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\Conversions.frmConversions.resources
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\Conversions.frmManageConversions.resources
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\CalculateConversions.csproj.GenerateResource.cache
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\CalculateConversions.csproj.CoreCompileInputs.cache
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\shafe\OneDrive\Documents\College Classes\Fall Classes 2023\dotNet II\Week 6\Conversions\Conversions\obj\Debug\Conversions.pdb
