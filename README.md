@@ -2,10 +2,8 @@
 Created a Windows Form Application with C# in Visual Studio to calculate conversions.
 
 ## Application Output
-### Main Conversion Form
-
-### Manage Conversion Form
-* Opens when "Manage Conversions" is clicked on the main form.
+### Main Conversion Form -> Manage Conversion Form
+Opens when "Manage Conversions" is clicked on the main form.
 
 ### Add Conversion Form - Adding a new conversion
 * Opens when "Add" is clicked on the Manage Conversion Form.
